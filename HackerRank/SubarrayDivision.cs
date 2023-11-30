@@ -6,6 +6,9 @@
         int length = 0;
         Console.WriteLine("MengDev");
         
+        Console.WriteLine("I am from GitClone")
+
+
         for (int i = 0; i <= s.Count - m; i++)
         {
             var sum = 0;
