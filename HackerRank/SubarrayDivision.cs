@@ -2,43 +2,42 @@
 {
     public static int birthday(List<int> s, int d, int m)
     {
-  
+
         int length = 0;
 
         for (int i = 0; i <= s.Count - m; i++)
         {
             var sum = 0;
-            for (int j = 0; j < m; j++)
-            {
-                // i = 0, sum = 0, j = 0, sum = sum + s[0] = 0 + 1  = 1
-                //        sum = 1, j = 1, sum = sum + s[1] = 1 + 2 = 3
 
-                sum += s[i];
-               Console.WriteLine($"{i} = {sum}");
-            
+            for (int k = 0; k < m; k++)
+            {
+
+                sum += s[k + i];
 
             }
-            
-            //Console.WriteLine(sum);
-            if(sum == d)
+            if (sum == d)
             {
                 length++;
+
             }
-   
+
         }
+        Console.WriteLine(length);
 
-        //Console.WriteLine(length);
-
-        return 0;
+        return length;
     }
 
 
 }
-    
+
 class ProblemSubarrayDivision
 {
-    public static List<int> s = new List<int> {1, 2, 1, 3, 2 };
+    public static List<int> s = new List<int> { 1, 2, 1, 3, 2 };
+    public static List<int> ss = new List<int> { 1, 1, 1, 1, 1 };
+    public static List<int> sss = new List<int> { 4 };
     public static int d = 3;
     public static int m = 2;
+    public static int ddd = 4;
+    public static int mmm = 1;
 
 }

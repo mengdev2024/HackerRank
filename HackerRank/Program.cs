@@ -9,7 +9,7 @@
             //BreakTheRecords.breakingRecords(ProblemOfBreakingTheRecords.scores1);
 
             // Subarray Division
-            SubarrayDivision.birthday(ProblemSubarrayDivision.s, ProblemSubarrayDivision.d, ProblemSubarrayDivision.m);
+            SubarrayDivision.birthday(ProblemSubarrayDivision.sss, ProblemSubarrayDivision.d, ProblemSubarrayDivision.m);
 
 
 
