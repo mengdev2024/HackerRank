@@ -9,8 +9,10 @@
             //BreakTheRecords.breakingRecords(ProblemOfBreakingTheRecords.scores1);
 
             // Subarray Division
-            SubarrayDivision.birthday(ProblemSubarrayDivision.sss, ProblemSubarrayDivision.d, ProblemSubarrayDivision.m);
+            //SubarrayDivision.birthday(ProblemSubarrayDivision.s, ProblemSubarrayDivision.d, ProblemSubarrayDivision.m);
 
+            // Divisible Sum Pairs
+            DivisibleSumPairs.divisibleSumPairs(ProblemDivisibleSumPairs.n, ProblemDivisibleSumPairs.k, ProblemDivisibleSumPairs.ar);
 
 
             //
