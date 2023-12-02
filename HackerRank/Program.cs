@@ -12,12 +12,12 @@
             //SubarrayDivision.birthday(ProblemSubarrayDivision.s, ProblemSubarrayDivision.d, ProblemSubarrayDivision.m);
 
             // Divisible Sum Pairs
-            //DivisibleSumPairs.divisibleSumPairs(ProblemDivisibleSumPairs.n, ProblemDivisibleSumPairs.k, ProblemDivisibleSumPairs.ar);
+            DivisibleSumPairs.divisibleSumPairs(ProblemDivisibleSumPairs.n, ProblemDivisibleSumPairs.k, ProblemDivisibleSumPairs.ar);
 
             // Migratory Birds
-            MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr1);
-            Console.WriteLine("========================================");
-            MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr2);
+            //MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr1);
+            //Console.WriteLine("========================================");
+            //MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr2);
 
 
 
