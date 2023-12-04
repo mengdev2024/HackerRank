@@ -2,36 +2,60 @@
 {
     public static int migratoryBirds(List<int> arr)
     {
-        List<int> newArr = arr.Distinct().ToList();
-        
-        foreach(int row in newArr)
-        {
-          // Console.WriteLine(row);
-        }
-        List<int> amountType = new List<int>();
+        /*int[] arrs = { 1, 2, 3, 4, 4, 4, 2, 5 };
+        Dictionary<int, int> elementCount = new Dictionary<int, int>();
 
-        for (int i = 0; i < newArr.Count; i++)
+        // Count occurrences of each element
+        foreach (int element in arr)
         {
-            int n = 0;
-
-            for (int j = 0; j < arr.Count; j++)
+            if (elementCount.ContainsKey(element))
             {
-                
-               // Console.WriteLine("{0} = {1}", arr[i], arr[j]);
-                if (newArr[i] == arr[j])
+                // Increment count if the element is already in the dictionary
+                elementCount[element]++;
+            }
+            else
+            {
+                // Add the element to the dictionary with a count of 1 if it's not already present
+                elementCount[element] = 1;
+            }
+        }
+
+        // Display the count of each element
+        foreach (var kvp in elementCount)
+        {
+            Console.WriteLine($"Element {kvp.Key} occurs {kvp.Value} times.");
+        }*/
+
+        List<int> countBirds = new List<int>();
+        
+        for(int i  = 1; i <= 5; i++)
+        {
+            int count = 0;
+            for(int j = 0; j < arr.Count; j++)
+            {
+                if (arr[j] == i)
                 {
-                    Console.WriteLine(arr[j]);
-                    n++;
+                    count++;
                 }
             }
-            amountType.Add(n);
-            if(amountType.Max() == 0)
+            countBirds.Add(count);
+            //Console.WriteLine(count);
+        }
+        List<int> newArr = arr.Distinct().ToList();
+        foreach (int element in newArr)
+        {
+
+            if (arr.Count(x => x == element) == countBirds.Max())
             {
 
+                Console.WriteLine(element);
+                return 0;
             }
-
+            else
+            {
+                Console.WriteLine("no");
+            }
         }
-        return 0;
 
     }
 }
