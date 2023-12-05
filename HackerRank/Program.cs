@@ -15,11 +15,14 @@
             //DivisibleSumPairs.divisibleSumPairs(ProblemDivisibleSumPairs.n, ProblemDivisibleSumPairs.k, ProblemDivisibleSumPairs.ar);
 
             // Migratory Birds
-            MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr1);
-            Console.WriteLine("========================================");
-            MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr2);
+            /*            MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr1);
+                        Console.WriteLine("========================================");
+                        MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr2);*/
 
-
+            // Day Of The Programmer
+            //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year1);
+            //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year2);
+            //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year3);
 
 
 
