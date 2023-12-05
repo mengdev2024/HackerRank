@@ -12,3 +12,17 @@ C:\Users\meng\Desktop\C#\HackerRank\HackerRank\HackerRank\obj\Debug\net7.0\refin
 C:\Users\meng\Desktop\C#\HackerRank\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.pdb
 C:\Users\meng\Desktop\C#\HackerRank\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.genruntimeconfig.cache
 C:\Users\meng\Desktop\C#\HackerRank\HackerRank\HackerRank\obj\Debug\net7.0\ref\HackerRank.dll
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\bin\Debug\net7.0\HackerRank.exe
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\bin\Debug\net7.0\HackerRank.deps.json
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\bin\Debug\net7.0\HackerRank.runtimeconfig.json
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\bin\Debug\net7.0\HackerRank.dll
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\bin\Debug\net7.0\HackerRank.pdb
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.AssemblyInfo.cs
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.dll
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\refint\HackerRank.dll
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.pdb
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\HackerRank.genruntimeconfig.cache
+C:\Users\mengv\OneDrive\Desktop\HackerRank\HackerRank\obj\Debug\net7.0\ref\HackerRank.dll

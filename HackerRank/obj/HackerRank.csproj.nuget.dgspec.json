@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meng\\Desktop\\C#\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj": {}
+    "C:\\Users\\mengv\\OneDrive\\Desktop\\HackerRank\\HackerRank\\HackerRank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meng\\Desktop\\C#\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj": {
+    "C:\\Users\\mengv\\OneDrive\\Desktop\\HackerRank\\HackerRank\\HackerRank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meng\\Desktop\\C#\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj",
+        "projectUniqueName": "C:\\Users\\mengv\\OneDrive\\Desktop\\HackerRank\\HackerRank\\HackerRank.csproj",
         "projectName": "HackerRank",
-        "projectPath": "C:\\Users\\meng\\Desktop\\C#\\HackerRank\\HackerRank\\HackerRank\\HackerRank.csproj",
-        "packagesPath": "C:\\Users\\meng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meng\\Desktop\\C#\\HackerRank\\HackerRank\\HackerRank\\obj\\",
+        "projectPath": "C:\\Users\\mengv\\OneDrive\\Desktop\\HackerRank\\HackerRank\\HackerRank.csproj",
+        "packagesPath": "C:\\Users\\mengv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mengv\\OneDrive\\Desktop\\HackerRank\\HackerRank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\meng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mengv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
