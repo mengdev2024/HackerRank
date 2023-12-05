@@ -20,6 +20,12 @@
             MigratoryBirds.migratoryBirds(ProblemMigratoryBirds.arr2);
 
 
+
+
+
+
+
+
             /*Log(breakingRecordsOptimizer(new List<int> { 10, 5, 20, 20, 4, 5, 2, 25, 1 }));
             Log(breakingRecords(new List<int> {10,5,20,20, 4, 5, 2,25, 1 }));*/
 
