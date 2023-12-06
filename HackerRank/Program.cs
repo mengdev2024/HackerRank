@@ -24,7 +24,8 @@
             //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year2);
             //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year3);
 
-
+            // Bill Division
+            BillDivision.bonAppetit(ProblemBillDivision.bill, ProblemBillDivision.k, ProblemBillDivision.b);
 
 
 
