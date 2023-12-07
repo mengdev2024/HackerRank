@@ -25,9 +25,11 @@
             //DayOfTheProgrammer.dayOfProgrammer(ProblemDayOfTheProgrammer.year3);
 
             // Bill Division
-            BillDivision.bonAppetit(ProblemBillDivision.bill, ProblemBillDivision.k, ProblemBillDivision.b);
+            //BillDivision.bonAppetit(ProblemBillDivision.bill, ProblemBillDivision.k, ProblemBillDivision.b1);
+            //BillDivision.bonAppetit(ProblemBillDivision.bill, ProblemBillDivision.k, ProblemBillDivision.b2);
 
-
+            // Sales by Match
+            SalesbyMatch.sockMerchant(ProblemSalesbyMatch.n, ProblemSalesbyMatch.ar);
 
 
             /*Log(breakingRecordsOptimizer(new List<int> { 10, 5, 20, 20, 4, 5, 2, 25, 1 }));
