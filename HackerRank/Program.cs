@@ -38,7 +38,8 @@
             // Counting Valleys
             //CountingValleys.countingValleys(ProblemCountingValleys.steps, ProblemCountingValleys.path);
 
-
+            // Electronics Shop
+            ElectronicsShop.getMoneySpent(ProblemElectronicsShop.keyboards, ProblemElectronicsShop.drives, ProblemElectronicsShop.b);
 
             /*Log(breakingRecordsOptimizer(new List<int> { 10, 5, 20, 20, 4, 5, 2, 25, 1 }));
             Log(breakingRecords(new List<int> {10,5,20,20, 4, 5, 2,25, 1 }));*/
