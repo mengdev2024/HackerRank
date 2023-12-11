@@ -39,7 +39,14 @@
             //CountingValleys.countingValleys(ProblemCountingValleys.steps, ProblemCountingValleys.path);
 
             // Electronics Shop
-            ElectronicsShop.getMoneySpent(ProblemElectronicsShop.keyboards, ProblemElectronicsShop.drives, ProblemElectronicsShop.b);
+            //ElectronicsShop.getMoneySpent(ProblemElectronicsShop.keyboards, ProblemElectronicsShop.drives, ProblemElectronicsShop.b);
+
+            // Cats and a Mouse
+            //CatsAndaMouse.catAndMouse(ProblemCatsAndaMouse.x, ProblemCatsAndaMouse.y, ProblemCatsAndaMouse.z);
+            //CatsAndaMouse.catAndMouse(ProblemCatsAndaMouse.x1, ProblemCatsAndaMouse.y1, ProblemCatsAndaMouse.z1);
+            //CatsAndaMouse.catAndMouse(ProblemCatsAndaMouse.x2, ProblemCatsAndaMouse.y2, ProblemCatsAndaMouse.z2);
+
+
 
             /*Log(breakingRecordsOptimizer(new List<int> { 10, 5, 20, 20, 4, 5, 2, 25, 1 }));
             Log(breakingRecords(new List<int> {10,5,20,20, 4, 5, 2,25, 1 }));*/
